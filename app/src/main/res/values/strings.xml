@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AccelorometerApp</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="y_coordinates">Y Coordinates:</string>
+    <string name="x_coordinates">X Coordinates:</string>
+    <string name="textview3">TextView</string>
+    <string name="z_coordinates">Z Coordinates:</string>
+    <string name="reset">Reset</string>
+    <string name="_01">0</string>
+    <string name="_02">0</string>
+    <string name="_03">0</string>
+</resources>
